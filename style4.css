@@ -1,0 +1,21 @@
+body{
+    
+    color: rgb(255, 255, 255);
+    background: #c31432;  
+    background-color: #d85369;
+    
+
+}
+#poema{
+    font-family: 'Dancing Script', sans-serif, cursive;
+    margin-left: 20px;
+    width: 250px;
+    font-size: 1.3em;
+    
+}
+#biografia{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 1em;
+}
